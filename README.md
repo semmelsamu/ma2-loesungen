@@ -2,6 +2,8 @@
 
 ## Schema
 
+Jede Datei ist nach folgendem Schema benannt:
+
 ```
 ÜbungsblattNr Aufgabe Teilaufgabe(n)
 ```
